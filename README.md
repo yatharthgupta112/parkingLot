@@ -5,9 +5,7 @@ I assumed that the entry gate of the parking lot is neareast to slot no 1.
 To run the program just install node 
 - npm i 
 - node parkingLot.js
-
-
-TO run the program from input file.
+- TO run the program from input file.
 - my_program file_inputs.txt > output.txt 
 Or you can run individual commands
 -create_parking_lot 6
